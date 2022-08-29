@@ -1,8 +1,8 @@
 import socket
 
 IP = '0.tcp.in.ngrok.io'
-portSpeak = 10104
-portListen = 14384
+portSpeak = 
+portListen = 
 s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 def main():
     userName = input("kimi no na wa?: ")
